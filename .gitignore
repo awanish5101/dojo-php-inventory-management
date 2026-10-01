@@ -1,0 +1,15 @@
+# Database & SQLite files
+*.sqlite
+*.db
+database/inventory.sqlite
+database/test*.sqlite
+tests/test*.sqlite
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Composer / Vendor (if used)
+vendor/
+composer.lock
